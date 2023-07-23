@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratikroy311@gmail.com**
 
-- 📄 Know about my experiences [https://resumepuppy.com/share/642eebffd6402862c06fcaa8](https://resumepuppy.com/share/642eebffd6402862c06fcaa8)
+- 📄 Know about my experiences [linkedin.com/in/pratikroy311/)
 
 - ⚡ Fun fact **I am also a Trader**
 
