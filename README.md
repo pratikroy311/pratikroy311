@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratikroy311@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/pratikroy311/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pratikroy311/](https://www.linkedin.com/in/pratikroy311/)
 
 - ⚡ Fun fact **I am also a Trader**
 
