@@ -1,4 +1,3 @@
-![logo](https://github.com/pratikroy311/pratikroy311/blob/main/git_banner.png)
 <h1 align="center">Hi 👋, I'm Pratik Roy</h1>
 <h3 align="center">A passionate Data Science and Django Developer</h3>
 
