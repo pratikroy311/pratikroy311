@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/originmaester" target="blank"><img src="https://img.shields.io/twitter/follow/originmaester?logo=twitter&style=for-the-badge" alt="originmaester" /></a> </p>
 
-- 🔭 I’m currently working on [django-book-store](https://github.com/pratikroy311/django-book-store)
+- 🔭 I’m currently working on [portfolio-builder](https://github.com/pratikroy311/portfolio-builder)
 
 - 🌱 I’m currently learning **Django Web Framework**
 
